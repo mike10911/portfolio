@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/michael-mundia-portfolio/static/css/main.073c9b0a.css",
+    "main.js": "/michael-mundia-portfolio/static/js/main.ac3b6236.js",
+    "static/js/787.64c2cdf1.chunk.js": "/michael-mundia-portfolio/static/js/787.64c2cdf1.chunk.js",
+    "static/media/logo.svg": "/michael-mundia-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/michael-mundia-portfolio/index.html",
+    "main.073c9b0a.css.map": "/michael-mundia-portfolio/static/css/main.073c9b0a.css.map",
+    "main.ac3b6236.js.map": "/michael-mundia-portfolio/static/js/main.ac3b6236.js.map",
+    "787.64c2cdf1.chunk.js.map": "/michael-mundia-portfolio/static/js/787.64c2cdf1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac3b6236.js"
+  ]
+}
