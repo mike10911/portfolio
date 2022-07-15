@@ -1,7 +1,6 @@
-import React, { Component, } from 'react';
-// import styled from "styled-components";
-import './Navbar.css';
+import React from 'react';
 
+import './Navbar.css';
 
 export const Navbar = () => {
   return (
