@@ -1,0 +1,21 @@
+
+.home{
+    margin-top: 15rem;
+    padding: 0 6rem;
+    color: #5F371F;
+    font-family: 'Questrial', sans-serif;
+    letter-spacing: 1.5px
+}
+
+.logo-home{
+    font-size: 7rem;
+    font-family: 'Notable', sans-serif;
+    letter-spacing: 0.5rem;
+    color: #FCF5E5;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.title-home{
+    color: #FCF5E5;
+}
