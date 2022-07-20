@@ -1,7 +1,7 @@
 
 .nav{
-    background-color: #5F371F;
-    color: #FCF5E5;
+    
+    color: #283618;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -10,9 +10,8 @@
 }
 
 .logo{
-    font-size: 1.75rem;
-    font-family: 'Notable', sans-serif;
-    letter-spacing: 1.5px
+    font-size: 2rem;
+    font-family: 'baunk';
 }
 
 .nav ul{
@@ -31,3 +30,11 @@
     text-decoration: none;
     padding: 1rem
 }
+
+@font-face {
+    font-family: 'Baunk';
+    src: url('../../assets/fonts/Baunk.woff');
+    font-weight: lighter;
+  
+}
+

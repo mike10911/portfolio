@@ -1,21 +1,48 @@
 
 .home{
-    margin-top: 15rem;
+    margin-top: 15em;
     padding: 0 6rem;
-    color: #5F371F;
+    color: #283618;
     font-family: 'Questrial', sans-serif;
-    letter-spacing: 1.5px
+    letter-spacing: 1.5px;
+    position: absolute;
 }
 
 .logo-home{
-    font-size: 7rem;
-    font-family: 'Notable', sans-serif;
-    letter-spacing: 0.5rem;
-    color: #FCF5E5;
-    margin-top: 0;
+    font-size: 18rem ;
+    font-family: 'Baunk';
+    letter-spacing: rem;
+    color: #283618;
+    margin-top: 5rem;
     margin-bottom: 0;
+
 }
 
 .title-home{
-    color: #FCF5E5;
+    margin-top: 0;
+    color: #283618;
 }
+
+.three1{
+    position: absolute;
+    top: 15rem
+    
+}
+
+.three2{
+    position: absolute;
+    top: 30rem;
+    left: 50rem;
+}
+
+.three3{
+    position: absolute;
+    top: 42rem;
+    left: 100rem;
+    
+}
+
+.react-icons{
+    size: 10em;
+}
+

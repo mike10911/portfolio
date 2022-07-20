@@ -6,7 +6,7 @@ export const Navbar = () => {
   return (
     <div>
        <nav className='nav'>
-           <a href='/' className='logo'> MIKE MUNDIA</a>
+           <a href='/' className='logo'> mike mundia</a>
            <ul>
                <li>
                    <a href='/'>ABOUT</a>
@@ -22,6 +22,9 @@ export const Navbar = () => {
                </li>
                <li>
                    <a href='/'>THEATRE</a>
+               </li>
+               <li>
+                   <a href='/'>PHOTOGRAPHY</a>
                </li>
                <li>
                    <a href='/'>CONTACT</a>
