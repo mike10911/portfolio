@@ -2,6 +2,12 @@
 a{
   color:inherit
 }
+
+a:hover{
+  color:#FF5F1F
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
