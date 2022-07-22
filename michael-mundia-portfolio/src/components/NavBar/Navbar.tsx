@@ -21,7 +21,7 @@ export const Navbar = () => {
                    <a href='/'>PROJECTS</a>
                </li>
                <li>
-                   <a href='/'>THEATRE</a>
+                   <a href='/'>ACTING</a>
                </li>
                <li>
                    <a href='/'>PHOTOGRAPHY</a>
