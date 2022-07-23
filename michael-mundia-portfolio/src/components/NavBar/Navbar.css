@@ -1,12 +1,11 @@
 
 .nav{
-    
     color: #283618;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: rem;
-    padding: 0 5rem;
+    margin-top: 0;
+
 }
 
 .logo{
@@ -20,13 +19,13 @@
 
 
 .nav ul{
-    padding: 0;
+    padding: 6;
     margin: 0;
     list-style-type: none;
     display: flex;
-    gap: 2rem;
     font-family: 'Questrial', sans-serif;
-    letter-spacing: 1.5px
+    letter-spacing: 1.5px;
+
 
 }
 

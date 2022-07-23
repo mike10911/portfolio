@@ -1,15 +1,44 @@
 .Three{
-    margin-top: 10rem;
+   
     font-family: 'Baunk';
-    font-size: 2rem;
+    font-size: 1.5rem;
     letter-spacing: 0;
     list-style: none;
-    position: absolute;
+    position: relative;
     color: #FF5F1F;
+    display: flex;
+    flex: 1 1 1;
+    overflow: wrap;
+    margin-top: 5rem;
 
 
 }
 
 ul{
     list-style: none;
+    
+    padding: 0;
+ 
 }
+
+@media (min-width: 1900px) {
+    .Three{
+        font-size: 1.5rem;
+    }
+    
+}
+
+@media (min-width: 3800px) {
+    .Three{
+        font-size: 2rem;
+    }
+    
+}
+
+@media (max-width: 1700px) {
+    .Three{
+        font-size: 1.3rem;
+    }
+    
+}
+

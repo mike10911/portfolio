@@ -1,4 +1,6 @@
-
+.App{
+  padding: 0rem 6rem;
+}
 a{
   color:inherit
 }
@@ -30,8 +32,5 @@ a:hover{
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
 
 
