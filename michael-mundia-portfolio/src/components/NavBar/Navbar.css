@@ -1,29 +1,36 @@
 
 .nav{
-    background-color: #5F371F;
-    color: #FCF5E5;
+    color: #283618;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: rem;
-    padding: 0 5rem;
+    margin-top: 0;
+
 }
 
 .logo{
-    font-size: 1.75rem;
-    font-family: 'Notable', sans-serif;
-    letter-spacing: 1.5px
+    font-size: 2rem;
+    font-family: 'baunk';
 }
 
+.logo:hover{
+    color:#FF5F1F
+}
+
+
 .nav ul{
-    padding: 0;
+    padding: 6;
     margin: 0;
     list-style-type: none;
     display: flex;
-    gap: 2rem;
     font-family: 'Questrial', sans-serif;
-    letter-spacing: 1.5px
+    letter-spacing: 1.5px;
 
+
+}
+
+li:hover{
+    color:#FF5F1F
 }
 
 .nav a {
@@ -31,3 +38,11 @@
     text-decoration: none;
     padding: 1rem
 }
+
+@font-face {
+    font-family: 'Baunk';
+    src: url('../../assets/fonts/Baunk.woff');
+    font-weight: lighter;
+  
+}
+
